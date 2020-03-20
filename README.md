@@ -1,5 +1,6 @@
-Bike Sharing Service Business Plan
-Service to be first launched in Des Moines, Iowa
+## Bike Sharing Service Business Plan
+### Service to be first launched in Des Moines, Iowa
+
 Bike Sharing is on the rise all across the world as people strive to live in crowded areas without owning a personal car. Based on the chart below, China has been leading the way with 430 Bike Sharing programs and it is gaining popularity rapidly in the US. There are still a lot of cities in the US that do not have a strong presence of Bike Sharing services. This presents a huge opportunity for a Bike Sharing Service business to establish itself in these cities and gain market share rapidly and be hugely successful.
 
 ![](project.png)
