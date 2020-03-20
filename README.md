@@ -5,8 +5,10 @@ Bike Sharing is on the rise all across the world as people strive to live in cro
 
 ![](project.png)
 ### Source: https://www.statista.com/chart/13483/bike-sharing-programs/
-## Since we are planning to launch our Bike Sharing service in Des Moines, Iowa, USA first, we will use the ride sharing data available for New York which has had successful programs for quite a while now. It will help us draw comparisons and consider outcomes and help model our business plan for Des Moines. One of the Bike Sharing programs that runs very successfully since 2013 in New York is CitiBike. We have collected the data published by them and will be using them extensively in this business plan.
-## To gauge the demand for Bike Sharing Service in Des Moines, we will collect relevant data and answer questions regarding current population, population density, population distribution by age, number of residents and visitors, average commute time and distance, avaibility of retail space. We will make side by side comparisons of the data for Des Moines with that of New York and provide our analysis.
+Since we are planning to launch our Bike Sharing service in Des Moines, Iowa, USA first, we will use the ride sharing data available for New York which has had successful programs for quite a while now. It will help us draw comparisons and consider outcomes and help model our business plan for Des Moines. One of the Bike Sharing programs that runs very successfully since 2013 in New York is CitiBike. We have collected the data published by them and will be using them extensively in this business plan.
+
+To gauge the demand for Bike Sharing Service in Des Moines, we will collect relevant data and answer questions regarding current population, population density, population distribution by age, number of residents and visitors, average commute time and distance, avaibility of retail space. We will make side by side comparisons of the data for Des Moines with that of New York and provide our analysis.
+
 #### What is the current population of Des Moines?
 #### Is the population growing or shrinking?
 #### What is the population distributed geographically?
